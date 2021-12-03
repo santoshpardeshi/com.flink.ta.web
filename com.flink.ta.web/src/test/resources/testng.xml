@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weather Shopper" verbose="1" preserve-order="true">
+	<test name="Test Modules" enabled="true" preserve-order="true">
+		<classes>
+			<class name="com.flink.automation.scripts.WeatherShopperTest" />
+		</classes>
+	</test>
+</suite>
